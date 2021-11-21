@@ -1,5 +1,5 @@
 # Blooket-hack-after-glixzzy
-glixzzy stop making profit off school cheats
+glixzzy stop making profit off school cheats                                 (made by a student who named jack and hes a cool omg!1)
 
 
 
