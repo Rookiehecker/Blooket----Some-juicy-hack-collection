@@ -1,5 +1,13 @@
+# hacks B) file:///home/chronos/u-d21651d33cef254e544b8e9fa51b503f2b21502c/MyFiles/Downloads/Screenshot%202021-11-21%2010.11.58%20AM.png
+
+
+
+
+
+
+
 # Blooket-hack-after-glixzzy
-glixzzy stop making profit off school cheats                                 (made by a student who named jack and hes so cool omg!1 credit to @P1uffy,scroll down for tutorial)
+glixzzy stop making profit off school cheats                                 (made by a student who named jack and hes so cool omg!1 credit to @P1uffy,@GooseterV,scroll down for tutorial)
 
 
 
