@@ -1,8 +1,5 @@
-# hacks B) file:///home/chronos/u-d21651d33cef254e544b8e9fa51b503f2b21502c/MyFiles/Downloads/Screenshot%202021-11-21%2010.11.58%20AM.png
-
-
-
-
+# hacks B) pls star
+🥲🌟😀
 
 
 
