@@ -3,8 +3,8 @@
 
 
 
-# Blooket-hack-after-glixzzy
-glixzzy stop making profit off school cheats                                 (made by a student who named jack and hes so cool omg!1 credit to @P1uffy,@GooseterV,scroll down for tutorial)
+# yey hecks r bacc
+les pro                                 (made by a student who named jack and hes so cool omg!1 credit to @P1uffy,@GooseterV,scroll down for tutorial)
 
 
 
