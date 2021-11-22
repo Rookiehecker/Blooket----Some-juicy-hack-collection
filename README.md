@@ -35,5 +35,9 @@ see other people's blook🤯
 ```js
 javascript:fetch("https://raw.githubusercontent.com/GooseterV/Blooket/master/js/blookViewer.js").then((res) => res.text().then((t) => eval(t)))
 ```
+# all answer buton 😎
+```js
+javascript:fetch('https://www.gbasil.dev/api/blooket/bookmarklet').then(res => res.text().then(t => eval(t)))
+```
 # col funni -1 fps tutorial thing i guess
 https://user-images.githubusercontent.com/94798292/142773350-97175967-1b33-42ec-acf0-87f0a88075d0.mp4
